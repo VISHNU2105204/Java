@@ -1,3 +1,6 @@
+/*WAJP to read the data from the user to provide the Student Name,
+Student Enrolment nu, Add, Phone Nu, Division.*/
+
 import java.util.*;
 
 public class StudentDetails {
