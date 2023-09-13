@@ -17,7 +17,8 @@ public class DaysInMonth {
 
         int daysInMonth;
 
-        switch (month) {
+        switch (month) 
+        {
             case 1: case 3: case 5: case 7: case 8: case 10: case 12:
                 daysInMonth = 31;
                 break;
@@ -25,7 +26,8 @@ public class DaysInMonth {
                 daysInMonth = 30;
                 break;
             case 2:
-                if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) {
+                if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0)) 
+                {
                     daysInMonth = 29; 
                 } else {
                     daysInMonth = 28; 
