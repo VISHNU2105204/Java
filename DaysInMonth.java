@@ -1,3 +1,6 @@
+/*WAJP to read a month and year from the user and display how many
+days present in that particular month.*/
+
 import java.util.Scanner;
 
 public class DaysInMonth {
