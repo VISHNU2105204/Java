@@ -1,6 +1,7 @@
-/*WAJP to read the data from the user to provide the Student Name,
-Student Enrolment nu, Add, Phone Nu, Division.*/ 
+/*WAJP to read the data from the user to provide Employee Name,
+  Employee Id, Salary, Department Name, and Designation*/
 
+    
 import java.util.Scanner;
 
 public class EmployeeDetails {
